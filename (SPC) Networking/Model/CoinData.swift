@@ -1,5 +1,5 @@
 //
-//  AuthorData.swift
+//  CoinData.swift
 //  (SPC) Networking
 //
 //  Created by Albert Planida on 1/8/21.
